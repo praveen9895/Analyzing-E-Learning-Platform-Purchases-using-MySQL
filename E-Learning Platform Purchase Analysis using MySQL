@@ -1,6 +1,37 @@
-E-Learning Platform Purchase Analysis using MySQL
-📌 Project Description
+📊 Analyzing E-Learning Platform Purchases Using MySQL
+📌 Project Overview
 
-This project demonstrates the design and analysis of a MySQL relational database for an online e-learning platform.
-The platform allows learners from different countries to purchase multiple digital courses.
-Using SQL, the project explores learner behavior, course demand, and revenue insights.
+This project focuses on analyzing purchase data from an E-Learning Platform using MySQL.
+The objective is to design a structured database, insert meaningful data, and perform SQL queries to extract business insights related to learners, courses, enrollments, and purchases.
+
+The project demonstrates practical usage of:
+
+Database design
+
+SQL queries
+
+Joins
+
+Aggregations
+
+Filtering and analysis
+
+🎯 Objectives
+
+Create a relational database for an e-learning platform
+
+Store learner, course, and purchase information
+
+Analyze learner behavior and course performance
+
+Generate insights using SQL queries
+
+Apply real-world business logic using MySQL
+
+🛠️ Technologies Used
+
+Database: MySQL
+
+Tool: MySQL Workbench
+
+Language: SQL
